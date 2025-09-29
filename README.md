@@ -17,7 +17,7 @@
 </div>
 
 ###
-<h1 align="center">Olá, Mundo 👋</h1>
+<h1 align="center">Olá, eu sou o Guilherme 👋</h1>
 
 ###
 <h2 align="left">🤖 Construindo uma Carreira em Ciência de Dados</h2>
@@ -25,23 +25,56 @@
 
 ###
 <p align="left">
-  Olá! Sou um profissional com sólida experiência administrativa e uma grande paixão por tecnologia, graduado em <strong>Sistemas para Internet pela Faculdade Estácio de Sá</strong>.
+  Sou graduado em **Sistemas para Internet** pela Estácio de Sá, com experiência na área administrativa e uma grande paixão por tecnologia. 
 </p>
 
-<p align="left">
-  Minha atuação como <strong>Assistente Administrativo</strong> aprimorou meu raciocínio analítico e minha capacidade de otimizar processos. Agora, estou canalizando essa bagagem e meu background técnico para construir uma carreira sólida e focada em <strong>Ciência de Dados</strong>.
-</p>
+Minha trajetória como **Assistente Administrativo** desenvolveu em mim:  
+- 📊 Raciocínio analítico  
+- ⚙️ Otimização de processos  
+- 📑 Organização e interpretação de dados
 
-- 📚 Para me tornar um Cientista de Dados, estou aprofundando meus conhecimentos em:
-  - <strong>SQL</strong> para consultas complexas e manipulação de grandes volumes de dados.
-  - <strong>Python</strong>, utilizando <strong>Pandas</strong> e <strong>NumPy</strong> para limpeza e preparação de dados, e <strong>Matplotlib/Seaborn</strong> para visualizações.
-  - <strong>Machine Learning</strong> com <strong>Scikit-learn</strong> para construir, treinar e avaliar modelos preditivos (como Regressão e Classificação).
+Agora, estou canalizando essa bagagem para uma **transição de carreira em Ciência de Dados**, unindo meu background técnico e minha vivência prática em processos de negócio.
+
+## 🚀 Habilidades em Desenvolvimento
+
+- 🗄️ **SQL** → consultas avançadas e manipulação de grandes volumes de dados.  
+- 🐍 **Python** → Pandas e NumPy para limpeza e preparação de dados.  
+- 📈 **Visualização** → Matplotlib e Seaborn para insights claros e objetivos.  
+- 🤖 **Machine Learning (Scikit-learn)** → criação e avaliação de modelos de Regressão e Classificação.
 
 - 💡 Meu grande objetivo é ir além da análise descritiva. Quero utilizar fundamentos estatísticos e algoritmos de Machine Learning para <strong>criar modelos que possam prever tendências</strong> e automatizar soluções inteligentes.
 
 - 🤝 Estou em busca da minha <strong>primeira oportunidade como Cientista de Dados Júnior</strong>, onde eu possa aplicar meu conhecimento, aprender com um time experiente e, principalmente, gerar valor através de dados.
 
 - 📫 Vamos nos conectar! Adoraria conversar sobre Machine Learning, projetos de dados e oportunidades de colaboração.
+
+## 💡 Objetivo
+
+Ir além da análise descritiva:  
+- Aplicar fundamentos estatísticos.  
+- Utilizar algoritmos de Machine Learning.  
+- Criar **modelos preditivos** que antecipem tendências.  
+- Desenvolver **soluções inteligentes e automatizadas**.  
+
+---
+
+## 📂 Projetos em Andamento
+
+🔧 Estou construindo projetos que unem minha experiência administrativa com técnicas de análise e modelagem de dados.  
+*(Em breve, você verá aqui exemplos práticos no meu GitHub!)*
+
+---
+
+## 🤝 O que estou buscando
+
+Estou em busca da minha **primeira oportunidade como Cientista de Dados Júnior**, onde eu possa:  
+- Colocar em prática meus conhecimentos.  
+- Aprender com um time experiente.  
+- Gerar valor real através de dados.  
+
+---
+
+## 📫 Vamos nos conectar!
 
 ###
 <h2 align="left">🛠 Language and tools</h2>
