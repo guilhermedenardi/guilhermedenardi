@@ -74,6 +74,7 @@ Estou em busca da minha **primeira oportunidade como Cientista de Dados Júnior*
 
 ---
 
+
 ## 📫 Vamos nos conectar!
 
 ###
