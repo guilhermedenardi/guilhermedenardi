@@ -97,6 +97,3 @@ Estou em busca da minha **primeira oportunidade como Cientista de Dados Júnior*
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12148875926&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=12148875926&redirect=true)
