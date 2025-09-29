@@ -25,10 +25,10 @@
 
 ###
 <p align="left">
-  Sou graduado em **Sistemas para Internet** pela Estácio de Sá, com experiência na área administrativa e uma grande paixão por tecnologia. 
+  Sou graduado em <strong>Sistemas para Internet</strong> pela Estácio de Sá, com experiência na área administrativa e uma grande paixão por tecnologia. 
 </p>
 
-Minha trajetória como **Assistente Administrativo** desenvolveu em mim:  
+Minha trajetória como <strong>Assistente Administrativo</strong> desenvolveu em mim:  
 - 📊 Raciocínio analítico  
 - ⚙️ Otimização de processos  
 - 📑 Organização e interpretação de dados
@@ -53,7 +53,7 @@ Agora, estou canalizando essa bagagem para uma **transição de carreira em Ciê
 Ir além da análise descritiva:  
 - Aplicar fundamentos estatísticos.  
 - Utilizar algoritmos de Machine Learning.  
-- Criar **modelos preditivos** que antecipem tendências.  
+- Criar <strong>modelos preditivos</strng> que antecipem tendências.  
 - Desenvolver **soluções inteligentes e automatizadas**.  
 
 ---
