@@ -74,9 +74,6 @@ Estou em busca da minha **primeira oportunidade como Cientista de Dados Júnior*
 
 ---
 
-
-## 📫 Vamos nos conectar!
-
 ###
 <h2 align="left">🛠 Language and tools</h2>
 
@@ -100,6 +97,8 @@ Estou em busca da minha **primeira oportunidade como Cientista de Dados Júnior*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
 </div>
 
+
+## 📫 Vamos nos conectar!
 
 ###
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12148875926&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=12148875926&redirect=true)
